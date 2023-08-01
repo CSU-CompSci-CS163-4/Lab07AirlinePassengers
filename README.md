@@ -3,7 +3,7 @@ This lab will focus working with [ArrayLists](https://docs.oracle.com/javase/8/d
 [For-Each Loop](https://docs.oracle.com/javase/8/docs/technotes/guides/language/foreach.html). There will be some additional information near the bottom of this 
 document if you need to gain a better understanding of today's topics.
 
-For ease of access, here is the [javadoc](https://github.com/CSU-CompSci-CS163-4/Lab07GroceryList) <- update this link once it exists
+For ease of access, here is the [javadoc](https://csu-compsci-cs163-4.github.io/Lab07AirlinePassengers/)
 
 ## Pre-Step: Testing
 Whenever you implement one of these methods, you can test it out in `AirlineMain.java`. Some tests are included here, read through them and figure out what they should print when you run them.
