@@ -31,9 +31,8 @@ Once you have implemented all of the methods, be sure to test them out in your `
 of code to fully test the program. For example, the tests for `removePassenger` are not included. To test that it works, test it out yourself.
 
 ## Step 5: Finishing up
-After you have tested out the code and feel confident, turn in your program files to zyBooks.
+After you have tested out the code and feel confident, zip all files and submit them into canvas.
 After turning in your files, show your self-explanation and pseudocode to your TA.
-Online students do not have the option to submit their self-explanations but the completion of them are still highly recommended to help better understand the code. 
 
 # Additional Information
 ## ArrayLists
