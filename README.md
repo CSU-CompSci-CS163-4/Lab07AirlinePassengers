@@ -11,7 +11,7 @@ Whenever you implement one of these methods, you can test it out in `AirlineMain
 ## Step 1: Compilation
 At the moment you should be able to compile and run the program that begins in `AirlineMain.java`. If you have any troubles with this you may want to redownload the files or ask a TA.
 
-## Step 2: Self-Explanation
+## Step 2: Self-Explanation (IN PERSON ONLY)
 Within the `PassengerList` class you will find the `removePassenger()` method. Given the current code within the `removePassenger()` method you can get some indication as to what it needs,
 but the javadoc may also come in handy for this step and the next. The For-Each loop is functional, but 
 you will have to fill in the contents of the conditional statement, which is currently *false*.
